@@ -18,6 +18,7 @@ public class Arra {
 			}
 		}
 		System.out.println(min);
+		System.out.println("Welocme to git hub");
 		
 	}
 
